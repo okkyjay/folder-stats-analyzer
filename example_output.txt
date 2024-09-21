@@ -1,0 +1,5 @@
+Directory: /home/user/projects
+---------------------------------
+Total Folders: 12
+Total Files:   45
+Total Size:    82.57 MB
